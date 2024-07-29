@@ -1,4 +1,4 @@
-#include<stdio.h> // This is a 'Header file library' that lets us work with input and output.
+#include<stdio.h> // Pre-Procesor Command. This is a 'Header file library' that lets us work with input and output.
 
 int main() // Main() is function. Any code between its curly brackets {} will be executed.
 {
