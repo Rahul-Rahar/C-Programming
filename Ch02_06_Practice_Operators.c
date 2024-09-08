@@ -11,7 +11,7 @@ int main() {
   printf("Differnce when b is subtracted from a: %d\n", a - b);
   printf("Product of a and b: %d\n", a * b);
   printf("Quotient when a is divided by b: %d\n", a / b);
-  printf("remainder when a is divided by b: %d\n", a % b);
+  printf("Remainder when a is divided by b: %d\n", a % b);
 
   // Assignment Operators with Float
   float c = 21.09f;
