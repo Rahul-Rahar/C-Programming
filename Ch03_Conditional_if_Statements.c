@@ -26,5 +26,5 @@ int main() {
         printf("The Entered Number %d is an ODD Number.\n", a);  
     }  
 
-    return 0; // Return success  
+    return 0; // Return success of Code is without Error.
 }
